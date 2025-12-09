@@ -72,7 +72,7 @@ Basic configuration
 
 - `app/lang` will change the bot client language [__**See below for supported language codes**__]
 
-- `app/Translate_Timeout` will set the time limit the bot has to create the translation succesfully. If the time is out, only the original english version will be printed. Set to `none` if you want to disable it (No Timeout). 
+- `app/Translate_Timeout` will set the time limit the bot has to create the translation succesfully. If the time is out, only the original English version will be printed. Set to `none` if you want to disable it (No Timeout). 
 
 - `app/enableEmojis` will change the player buttons with emojis if set to true. `false` will replace them by basic english words
 
